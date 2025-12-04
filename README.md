@@ -13,18 +13,19 @@ I am a passionate AI & machine learning enthusiast, focused on building intellig
 
 When I am not *programming*, you can find me exploring new AI tools and UI layouts, reading novels, tending to my garden, or contributing to community initiatives through volunteer work.
 
-#### Follow meon my github and linkedin *^____^*
+#### Follow me on my github and linkedin *^____^*
 
-### My Latest Projects
+#### My Latest Projects
 
 <p align="left">
   <a href="https://github.com/vignesh-poovanna/EyeVector-Computer-Vision-using-OpenCV">
-    <img src="https://img.shields.io/badge/EyeVector-%23000000?style=for-the-badge" alt="EyeVector" />
+    <img src="https://img.shields.io/badge/EyeVector%20:%20Smart%20Computer%20Vision%20using%20OpenCV-%23000000?style=for-the-badge" alt="EyeVector : Smart Computer Vision using OpenCV" />
   </a>
   <a href="https://github.com/vignesh-poovanna/Google---Capstone-Project---OpsPilot">
     <img src="https://img.shields.io/badge/Google%20Capstone%20Project%20:%20OpsPilot-%23000000?style=for-the-badge" alt="Google Capstone Project : OpsPilot" />
   </a>
 </p>
+
 
 
 
