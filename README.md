@@ -15,6 +15,8 @@ When I am not *programming*, you can find me exploring new AI tools and UI layou
 
 #### Follow meon my github and linkedin *^____^*
 
+### My Latest Projects
+
 <p align="left">
   <a href="https://github.com/vignesh-poovanna/EyeVector-Computer-Vision-using-OpenCV">
     <img src="https://img.shields.io/badge/EyeVector-%23000000?style=for-the-badge" alt="EyeVector" />
@@ -23,6 +25,7 @@ When I am not *programming*, you can find me exploring new AI tools and UI layou
     <img src="https://img.shields.io/badge/Google%20Capstone%20Project%20:%20OpsPilot-%23000000?style=for-the-badge" alt="Google Capstone Project : OpsPilot" />
   </a>
 </p>
+
 
 
 
