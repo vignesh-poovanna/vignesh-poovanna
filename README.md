@@ -7,7 +7,7 @@
 
 <img align='right' src='https://media.giphy.com/media/SlKBbQNNZNfcPRWYW7/giphy.gif?cid=790b7611a4351dcfa196a542cb14b629067293e1bcc9d2e4&ep=v1_user_favorites&rid=giphy.gif&ct=s' width='310' height='310'>
 
-I'm [**Vignesh Poovanna**](www.linkedin.com/in/vignesh-poovanna-a-s), an AIML student at [**CMR University**](https://www.cmr.edu.in/), creative programmer, and a Frontend Developer.
+I'm [**Vignesh Poovanna**](https://www.linkedin.com/in/vignesh-poovanna-a-s), an AIML student at [**CMR University**](https://www.cmr.edu.in/), creative programmer, and a Frontend Developer.
 
 I am a passionate AI & machine learning enthusiast, focused on building intelligent applications and user‑friendly web experiences as part of my studies at [**CMR University**](https://www.cmr.edu.in/).
 
