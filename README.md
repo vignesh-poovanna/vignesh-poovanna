@@ -24,6 +24,9 @@ When I am not *programming*, you can find me exploring new AI tools and UI layou
   <a href="https://github.com/vignesh-poovanna/Google---Capstone-Project---OpsPilot">
     <img src="https://img.shields.io/badge/Google%20Capstone%20Project%20:%20OpsPilot-%23000000?style=for-the-badge" alt="Google Capstone Project : OpsPilot" />
   </a>
+  <a href="https://github.com/vignesh-poovanna/CarbonCompute-Realtime-carbon-monitor-and-forecast">
+    <img src="https://img.shields.io/badge/CodeCarbon%20: %20 Realtime%20 Emissions %20tracking%20and%20Forecast%20-%23000000?style=for-the-badge" alt="CodeCarbon - Realtime Emissions tracking and Forecast" />
+  </a>
 </p>
 
 
