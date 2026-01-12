@@ -33,5 +33,4 @@ When I am not *programming*, you can find me exploring new AI tools and UI layou
 
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/vignesh-poovanna-a-s) <br>
-[<img alt="Certificates and Certifications" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/vignesh-poovanna-a-s)
 
