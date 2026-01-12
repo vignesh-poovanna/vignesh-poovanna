@@ -29,8 +29,15 @@ When I am not *programming*, you can find me exploring new AI tools and UI layou
 </p>
 
 
+[![Certificates and Certifications](https://img.shields.io/badge/Certificates%20and%20Certifications-131f2f?style=for-the-badge&labelColor=000000&color=131f2f)](https://github.com/vignesh-poovanna/Certificates-and-Certifications/tree/main)
+
+
 
 
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/vignesh-poovanna-a-s) <br>
+
+
+
+
 
