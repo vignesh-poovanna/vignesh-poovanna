@@ -29,7 +29,7 @@ When I am not *programming*, you can find me exploring new AI tools and UI layou
 </p>
 
 
-[![Certificates and Certifications](https://img.shields.io/badge/Certificates%20and%20Certifications-131f2f?style=for-the-badge&labelColor=000000&color=131f2f)](https://github.com/vignesh-poovanna/Certificates-and-Certifications/tree/main)
+[![Certificates and Certifications](https://img.shields.io/badge/Certificates%20and%20Certifications-131f2f?style=for-the-badge&labelColor=000000&color=131f2f)](https://github.com/vignesh-poovanna/Certificates-and-Certifications/blob/main/README.md)
 
 
 
