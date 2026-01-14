@@ -13,6 +13,8 @@ I am a passionate AI & machine learning enthusiast, focused on building intellig
 
 When I am not *programming*, you can find me exploring new AI tools and UI layouts, reading novels, tending to my garden, or contributing to community initiatives through volunteer work.
 
+
+
 #### Follow me on my github and linkedin *^____^*
 
 #### My Latest Projects
@@ -36,6 +38,14 @@ When I am not *programming*, you can find me exploring new AI tools and UI layou
 
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/vignesh-poovanna-a-s) <br>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vignesh-poovanna/vignesh-poovanna/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vignesh-poovanna/vignesh-poovanna/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vignesh-poovanna/vignesh-poovanna/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 
 
