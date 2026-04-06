@@ -26,7 +26,7 @@ When I am not *programming*, you can find me exploring new AI tools and UI layou
   
 
   <a href="https://github.com/vignesh-poovanna/Land-Cover-Segmentation">
-    <img src="https://img.shields.io/badge/CodeCarbon%20: %20 Realtime%20 Emissions %20tracking%20and%20Forecast%20-%23000000?style=for-the-badge" alt="Land Cover Segmentation for Satellite Data" />
+    <img src="https://img.shields.io/badge/Land%20 Cover%20 Segmentation %20for%20satellite%20data%20-%23000000?style=for-the-badge" alt="Land Cover Segmentation for Satellite Data" />
   </a>
 </p>
 
