@@ -1,7 +1,3 @@
-
-
-
-
 ### Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3AybnduamRvMGJrbmkwempjdXJ6aWw3Y3NoYmdqZjZzcGxhdWhoMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="25"/>
 
 
@@ -31,6 +27,7 @@ When I am not *programming*, you can find me exploring new AI tools and UI layou
 </p>
 
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-131f2f?style=for-the-badge&labelColor=000000&color=131f2f)](https://vignesh-poovanna.github.io)
 [![Certificates and Certifications](https://img.shields.io/badge/Certificates%20and%20Certifications-131f2f?style=for-the-badge&labelColor=000000&color=131f2f)](https://github.com/vignesh-poovanna/Certificates-and-Certifications/blob/main/README.md)
 
 
@@ -46,8 +43,3 @@ When I am not *programming*, you can find me exploring new AI tools and UI layou
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vignesh-poovanna/vignesh-poovanna/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
-
-
-
-
-
