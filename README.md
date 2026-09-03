@@ -1,38 +1,38 @@
 ### Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3AybnduamRvMGJrbmkwempjdXJ6aWw3Y3NoYmdqZjZzcGxhdWhoMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="25"/>
 
-
 <img align='right' src='https://media.giphy.com/media/SlKBbQNNZNfcPRWYW7/giphy.gif?cid=790b7611a4351dcfa196a542cb14b629067293e1bcc9d2e4&ep=v1_user_favorites&rid=giphy.gif&ct=s' width='310' height='310'>
 
-I'm [**Vignesh Poovanna**](https://www.linkedin.com/in/vignesh-poovanna-a-s), an AIML student at [**CMR University**](https://www.cmr.edu.in/), creative programmer, and a Frontend Developer.
+I'm [**Vignesh Poovanna**](https://www.linkedin.com/in/vignesh-poovanna-a-s), an AI & ML student at [**CMR University**](https://www.cmr.edu.in/), currently interning as an **AI Intern at ISRO's ISTRAC**, where I build offline, edge-deployed AI systems for satellite telemetry analysis.
 
-I am a passionate AI & machine learning enthusiast, focused on building intelligent applications and user‑friendly web experiences as part of my studies at [**CMR University**](https://www.cmr.edu.in/).
+I like building things end-to-end — from model to interface. My work spans computer vision, retrieval-augmented generation, knowledge graphs, and time-series forecasting, and I also freelance as a frontend/full-stack web developer, shipping sites for hospitality, F&B, and AI-agency clients.
 
-When I am not *programming*, you can find me exploring new AI tools and UI layouts, reading novels, tending to my garden, or contributing to community initiatives through volunteer work.
+When I'm not *programming*, you can find me exploring new AI tools and UI layouts, reading novels, tending to my garden, or contributing to community initiatives through volunteer work.
 
+#### Tech I work with
 
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
 #### Follow me on my github and linkedin *^____^*
 
 #### My Latest Projects
 
-<p align="left">
-  <a href="https://github.com/vignesh-poovanna/EyeVector-Computer-Vision-using-OpenCV">
-    <img src="https://img.shields.io/badge/EyeVector%20:%20Smart%20Computer%20Vision%20using%20OpenCV-%23000000?style=for-the-badge" alt="EyeVector : Smart Computer Vision using OpenCV" />
-  </a><br>
-  
-
-  <a href="https://github.com/vignesh-poovanna/Land-Cover-Segmentation">
-    <img src="https://img.shields.io/badge/Land%20 Cover%20 Segmentation %20for%20satellite%20data%20-%23000000?style=for-the-badge" alt="Land Cover Segmentation for Satellite Data" />
-  </a>
-</p>
-
+<!-- Add project badges here -->
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-131f2f?style=for-the-badge&labelColor=000000&color=131f2f)](https://vignesh-poovanna.github.io)
 [![Certificates and Certifications](https://img.shields.io/badge/Certificates%20and%20Certifications-131f2f?style=for-the-badge&labelColor=000000&color=131f2f)](https://github.com/vignesh-poovanna/Certificates-and-Certifications/blob/main/README.md)
-
-
-
-
 
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white" />](https://www.linkedin.com/in/vignesh-poovanna-a-s) <br>
 
