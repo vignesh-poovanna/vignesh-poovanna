@@ -6,7 +6,7 @@ I'm [**Vignesh Poovanna**](https://www.linkedin.com/in/vignesh-poovanna-a-s), an
 
 I like building things end-to-end — from model to interface. My work spans computer vision, retrieval-augmented generation, knowledge graphs, and time-series forecasting, and I also freelance as a frontend/full-stack web developer, shipping sites for hospitality, F&B, and AI-agency clients.
 
-When I'm not *programming*, you can find me exploring new AI tools and UI layouts, reading novels, tending to my garden, or contributing to community initiatives through volunteer work.
+When I'm not *programming*, you can find me exploring new AI tools and UI layouts, reading novels, mentoring, or contributing to community initiatives through volunteer work.
 
 #### Tech I work with
 
@@ -19,13 +19,13 @@ When I'm not *programming*, you can find me exploring new AI tools and UI layout
   <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://shields.io" />
+
+
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-#### Follow me on my github and linkedin *^____^*
+
 
 #### My Latest Projects
 
