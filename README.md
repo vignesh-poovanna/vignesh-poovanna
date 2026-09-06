@@ -1,4 +1,4 @@
-### Hi there! 👋
+### Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3AybnduamRvMGJrbmkwempjdXJ6aWw3Y3NoYmdqZjZzcGxhdWhoMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="25"/>
 
 <img align="right" src="https://media.giphy.com/media/SlKBbQNNZNfcPRWYW7/giphy.gif?cid=790b7611a4351dcfa196a542cb14b629067293e1bcc9d2e4&ep=v1_user_favorites&rid=giphy.gif&ct=s" width="310" height="310">
 
