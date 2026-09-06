@@ -26,11 +26,19 @@ When I'm not *programming*, you can find me exploring new AI tools and UI layout
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&labelColor=0A66C2&color=0A66C2)](https://vignesh-poovanna.github.io)
-
-[![Certificates and Certifications](https://img.shields.io/badge/Certificates%20and%20Certifications-0A66C2?style=for-the-badge&labelColor=0A66C2&color=0A66C2)](https://github.com/vignesh-poovanna/Certificates-and-Certifications/blob/main/README.md)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230E76A8.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/vignesh-poovanna-a-s/)
+<p align="left">
+  <a href="https://vignesh-poovanna.github.io">
+    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&labelColor=0A66C2&color=0A66C2" alt="Portfolio">
+  </a>
+  &nbsp;
+  <a href="https://github.com/vignesh-poovanna/Certificates-and-Certifications/blob/main/README.md">
+    <img src="https://img.shields.io/badge/Certificates%20%26%20Certifications-0A66C2?style=for-the-badge&labelColor=0A66C2&color=0A66C2" alt="Certificates and Certifications">
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/vignesh-poovanna-a-s/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
 #### My Latest Projects
 
