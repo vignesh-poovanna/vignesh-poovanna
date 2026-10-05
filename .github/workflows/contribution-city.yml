@@ -1,0 +1,36 @@
+name: Update contribution city
+
+on:
+  schedule:
+    - cron: "0 1 * * *"      # daily, 01:00 UTC
+  workflow_dispatch:          # manual run from the Actions tab
+  push:
+    paths:
+      - "scripts/generate_city.py"
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate city
+        env:
+          USERNAME: ${{ github.repository_owner }}
+          # Optional: add a PROFILE_TOKEN secret (fine-grained PAT, read-only) to count private contributions.
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+        run: python scripts/generate_city.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/contribution-city.svg
+          git diff --cached --quiet || (git commit -m "chore: refresh contribution city" && git push)
