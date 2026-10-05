@@ -46,10 +46,4 @@ When I'm not *programming*, you can find me exploring new AI tools and UI layout
 
 [![Land Cover Segmentation](https://img.shields.io/badge/Land%20Cover%20Segmentation-131f2f?style=for-the-badge&labelColor=000000&color=131f2f)](https://github.com/vignesh-poovanna/Land-Cover-Segmentation)
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vignesh-poovanna/vignesh-poovanna/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vignesh-poovanna/vignesh-poovanna/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/vignesh-poovanna/vignesh-poovanna/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+<img src="./assets/contribution-city.svg" width="100%" alt="Contribution city: an isometric night skyline with one building per day of the last year.">
