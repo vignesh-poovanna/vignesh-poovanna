@@ -1,49 +1,42 @@
-### Hi there! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3AybnduamRvMGJrbmkwempjdXJ6aWw3Y3NoYmdqZjZzcGxhdWhoMCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/6KirhLJyR7oMcwgJQk/giphy.gif" width="25"/>
+﻿<div align="center">
 
-<img align="right" src="https://media.giphy.com/media/SlKBbQNNZNfcPRWYW7/giphy.gif?cid=790b7611a4351dcfa196a542cb14b629067293e1bcc9d2e4&ep=v1_user_favorites&rid=giphy.gif&ct=s" width="310" height="310">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=28&pause=1000&color=2FC0FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Vignesh+Poovanna.;AI+%26+ML+Engineer.;Builder+of+end-to-end+systems." alt="Typing SVG" />
 
-I'm **[Vignesh Poovanna](https://www.linkedin.com/in/vignesh-poovanna-a-s/)**, an AI & ML student at **[CMR University](https://www.cmr.edu.in/)**, currently interning as an **AI Intern at ISRO's ISTRAC**, where I build offline, edge-deployed AI systems for satellite telemetry analysis.
+<br/>
 
-I like building things end-to-end — from model to interface. My work spans computer vision, retrieval-augmented generation, knowledge graphs, and time-series forecasting, and I also freelance as a frontend/full-stack web developer, shipping sites for hospitality, F&B, and AI-agency clients.
+`AI & ML Student` &nbsp;·&nbsp; `CMR University` &nbsp;·&nbsp; `AI Intern @ ISRO ISTRAC`
 
-When I'm not *programming*, you can find me exploring new AI tools and UI layouts, reading novels, mentoring, or contributing to community initiatives through volunteer work.
+<br/>
 
-#### Tech Stack
+I build things **end-to-end** — model to interface. My work spans computer vision, RAG, knowledge graphs, and time-series forecasting. I also freelance as a frontend/full-stack developer for hospitality, F&B, and AI-agency clients.
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <br>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-</p>
+<br/>
 
-<p align="left">
-  <a href="https://vignesh-poovanna.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&labelColor=0A66C2&color=0A66C2" alt="Portfolio">
-  </a>
-  &nbsp;
-  <a href="https://github.com/vignesh-poovanna/Certificates-and-Certifications/blob/main/README.md">
-    <img src="https://img.shields.io/badge/Certificates%20%26%20Certifications-0A66C2?style=for-the-badge&labelColor=0A66C2&color=0A66C2" alt="Certificates and Certifications">
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/vignesh-poovanna-a-s/">
-    <img src="https://img.shields.io/badge/LinkedIn-%230E76A8.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1530?style=for-the-badge&logo=linkedin&logoColor=2fc0ff)](https://www.linkedin.com/in/vignesh-poovanna-a-s/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1530?style=for-the-badge&logo=firefox&logoColor=2fc0ff)](https://vignesh-poovanna.github.io)
+[![Certificates](https://img.shields.io/badge/Certificates-0d1530?style=for-the-badge&logo=gitbook&logoColor=2fc0ff)](https://github.com/vignesh-poovanna/Certificates-and-Certifications/blob/main/README.md)
 
-#### My Latest Projects
+</div>
 
-[![GraphRAG](https://img.shields.io/badge/GraphRAG-131f2f?style=for-the-badge&labelColor=000000&color=131f2f)](https://github.com/vignesh-poovanna/GraphRAG)
+---
 
-[![Land Cover Segmentation](https://img.shields.io/badge/Land%20Cover%20Segmentation-131f2f?style=for-the-badge&labelColor=000000&color=131f2f)](https://github.com/vignesh-poovanna/Land-Cover-Segmentation)
+**Tech Stack**
+
+```
+ML / AI       Python · TensorFlow · PyTorch · OpenCV · HuggingFace · LangChain
+Data          Neo4j · Time-series forecasting · RAG · Knowledge Graphs
+Backend       FastAPI · Docker
+Frontend      React · Next.js · full-stack web
+Tooling       Git · Linux · VS Code
+```
+
+---
+
+**Latest Projects**
+
+- [`GraphRAG`](https://github.com/vignesh-poovanna/GraphRAG) — Retrieval-augmented generation with knowledge graphs
+- [`Land Cover Segmentation`](https://github.com/vignesh-poovanna/Land-Cover-Segmentation) — Satellite imagery segmentation with deep learning
+
+---
 
 <img src="./assets/contribution-city.svg" width="100%" alt="Contribution city: an isometric night skyline with one building per day of the last year.">
