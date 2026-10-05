@@ -22,21 +22,13 @@ I work across the full stack: computer vision, retrieval-augmented generation, k
 
 ### `// stack`
 
-<p>
-  <img src="https://img.shields.io/badge/Python-0d1530?style=flat-square&logo=python&logoColor=2fc0ff" />
-  <img src="https://img.shields.io/badge/TensorFlow-0d1530?style=flat-square&logo=tensorflow&logoColor=2fc0ff" />
-  <img src="https://img.shields.io/badge/PyTorch-0d1530?style=flat-square&logo=pytorch&logoColor=2fc0ff" />
-  <img src="https://img.shields.io/badge/OpenCV-0d1530?style=flat-square&logo=opencv&logoColor=2fc0ff" />
-  <img src="https://img.shields.io/badge/HuggingFace-0d1530?style=flat-square&logo=huggingface&logoColor=2fc0ff" />
-  <img src="https://img.shields.io/badge/LangChain-0d1530?style=flat-square&logo=langchain&logoColor=2fc0ff" />
-  <img src="https://img.shields.io/badge/Neo4j-0d1530?style=flat-square&logo=neo4j&logoColor=2fc0ff" />
-  <img src="https://img.shields.io/badge/FastAPI-0d1530?style=flat-square&logo=fastapi&logoColor=2fc0ff" />
-  <img src="https://img.shields.io/badge/Docker-0d1530?style=flat-square&logo=docker&logoColor=2fc0ff" />
-  <img src="https://img.shields.io/badge/React-0d1530?style=flat-square&logo=react&logoColor=2fc0ff" />
-  <img src="https://img.shields.io/badge/Next.js-0d1530?style=flat-square&logo=next.js&logoColor=2fc0ff" />
-  <img src="https://img.shields.io/badge/Git-0d1530?style=flat-square&logo=git&logoColor=2fc0ff" />
-  <img src="https://img.shields.io/badge/Linux-0d1530?style=flat-square&logo=linux&logoColor=2fc0ff" />
-</p>
+| | |
+|---|---|
+| `AI & ML` | ![Python](https://img.shields.io/badge/Python-0d1530?style=flat-square&logo=python&logoColor=2fc0ff) ![TensorFlow](https://img.shields.io/badge/TensorFlow-0d1530?style=flat-square&logo=tensorflow&logoColor=2fc0ff) ![PyTorch](https://img.shields.io/badge/PyTorch-0d1530?style=flat-square&logo=pytorch&logoColor=2fc0ff) ![OpenCV](https://img.shields.io/badge/OpenCV-0d1530?style=flat-square&logo=opencv&logoColor=2fc0ff) ![HuggingFace](https://img.shields.io/badge/HuggingFace-0d1530?style=flat-square&logo=huggingface&logoColor=2fc0ff) ![LangChain](https://img.shields.io/badge/LangChain-0d1530?style=flat-square&logo=langchain&logoColor=2fc0ff) |
+| `Data` | ![Neo4j](https://img.shields.io/badge/Neo4j-0d1530?style=flat-square&logo=neo4j&logoColor=2fc0ff) ![RAG](https://img.shields.io/badge/RAG-0d1530?style=flat-square&logo=openai&logoColor=2fc0ff) |
+| `Backend` | ![FastAPI](https://img.shields.io/badge/FastAPI-0d1530?style=flat-square&logo=fastapi&logoColor=2fc0ff) ![Docker](https://img.shields.io/badge/Docker-0d1530?style=flat-square&logo=docker&logoColor=2fc0ff) |
+| `Frontend` | ![React](https://img.shields.io/badge/React-0d1530?style=flat-square&logo=react&logoColor=2fc0ff) ![Next.js](https://img.shields.io/badge/Next.js-0d1530?style=flat-square&logo=next.js&logoColor=2fc0ff) |
+| `Tooling` | ![Git](https://img.shields.io/badge/Git-0d1530?style=flat-square&logo=git&logoColor=2fc0ff) ![Linux](https://img.shields.io/badge/Linux-0d1530?style=flat-square&logo=linux&logoColor=2fc0ff) ![VS Code](https://img.shields.io/badge/VS_Code-0d1530?style=flat-square&logo=visualstudiocode&logoColor=2fc0ff) |
 
 ---
 
