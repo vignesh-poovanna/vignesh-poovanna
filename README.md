@@ -1,6 +1,6 @@
-﻿<div align="center">
+<div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=2FC0FF&center=true&vCenter=true&width=700&lines=Vignesh+Poovanna;AI+%26+ML+Engineer+%C2%B7+ISRO+ISTRAC;Building+things+end-to-end." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=400&speed=25&color=2FC0FF&center=true&vCenter=true&width=700&lines=Vignesh+Poovanna;AI+%26+ML+Engineer+%C2%B7+ISRO+ISTRAC;Building+things+end-to-end." alt="Typing SVG" />
 
 <br/>
 
